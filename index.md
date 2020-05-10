@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Fire Interface for the HoloLens Technical Report
 
-You can use the [editor on GitHub](https://github.com/1ByteMemory/ArtefactTechReport.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The Artefact
+For my artefact I produced an augmented reality (AR) game based on the mechanic of casting a fire ball as a magic spell. In the artefact the user wears a head mounted display capable of AR to cast fire balls using hand gestures. The fire balls travel in the direction the user is facing and explode upon colliding with a real-world surface. The fire then permeates for a few seconds before fizzling out. 
 
 ### Markdown
 

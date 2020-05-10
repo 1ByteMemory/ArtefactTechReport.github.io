@@ -12,7 +12,8 @@ For my artefact I produced an augmented reality (AR) game based on the mechanic 
 ### Practice Based Research
 For my practice-based research I was going to have one-one-one interviews after having the users physically use the HoloLens where the users can give immediate feedback on their experience. However, due to unforeseen circumstances, I was unable to perform this type of research. So, I was forced to write up a survey and distribute that alongside a video showing what the experience would look like. With this method I was able to easily distribute the survey to a variety of people of different ages and knowledge in knowledge of games and augmented reality; unfortunately, some clarity was lost in the demonstration video as I had no access to a HoloLens at that time. 
 
-The majority of responses do play video games and have at least had some experience in using augmented reality, mostly with using apps such as Pokémon Go, Snapchat filters and some with the PS VITA and Nintendo 3DS, although very few of them have had any experience with using the HoloLens. 
+The majority of responses do play video games and have at least had some experience in using augmented reality, mostly with using apps such as Pokémon Go, Snapchat filters and some with the PS VITA and Nintendo 3DS, although very few of them have had any experience with using the HoloLens.
+
 <img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/Table01.PNG" alt="AR_Experiences">
 
 

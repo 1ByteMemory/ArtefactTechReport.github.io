@@ -4,13 +4,19 @@
 For my artefact I produced an augmented reality (AR) game based on the mechanic of casting a fire ball as a magic spell. In the artefact the user wears a head mounted display capable of AR to cast fire balls using hand gestures. The fire balls travel in the direction the user is facing and explode upon colliding with a real-world surface. The fire then permeates for a few seconds before fizzling out. 
 
 ### UML Diagram
-<iframe width="560" height="315" src="https://www.youtube.com/embed/599TbLwomlE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/AR_UML.png" alt="UML">
 
 ### Video
-<video controls>
-  <source src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/HoloLensPrototype.mp4" type="video/mp4">
-  Your brower soe not support this video.
-</video>
+<iframe width="560" height="315" 
+	src="https://www.youtube.com/embed/599TbLwomlE" 
+	frameborder="0" 
+	allow="accelerometer; 
+	autoplay; 
+	encrypted-media; 
+	gyroscope; 
+	picture-in-picture" 
+	allowfullscreen>
+</iframe>
 
 ### Markdown
 

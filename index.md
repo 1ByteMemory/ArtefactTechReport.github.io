@@ -3,6 +3,9 @@
 ### The Artefact
 For my artefact I produced an augmented reality (AR) game based on the mechanic of casting a fire ball as a magic spell. In the artefact the user wears a head mounted display capable of AR to cast fire balls using hand gestures. The fire balls travel in the direction the user is facing and explode upon colliding with a real-world surface. The fire then permeates for a few seconds before fizzling out. 
 
+### UML Diagram
+<img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/AR_UML.png" alt="UML">
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

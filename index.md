@@ -6,6 +6,12 @@ For my artefact I produced an augmented reality (AR) game based on the mechanic 
 ### UML Diagram
 <img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/AR_UML.png" alt="UML">
 
+### Video
+<video controls>
+  <source src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/HoloLensPrototype.mp4" type="video/mp4">
+  Your brower soe not support this video.
+</video>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

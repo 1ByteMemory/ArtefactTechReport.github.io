@@ -7,16 +7,7 @@ For my artefact I produced an augmented reality (AR) game based on the mechanic 
 <img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/AR_UML.png" alt="UML">
 
 ### Video
-<iframe width="560" height="315" 
-	src="https://www.youtube.com/embed/599TbLwomlE" 
-	frameborder="0" 
-	allow="accelerometer; 
-	autoplay; 
-	encrypted-media; 
-	gyroscope; 
-	picture-in-picture" 
-	allowfullscreen>
-</iframe>
+[Link to video prototype](https://youtu.be/599TbLwomlE)
 
 ### Markdown
 

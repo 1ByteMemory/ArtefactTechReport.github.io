@@ -4,7 +4,7 @@
 For my artefact I produced an augmented reality (AR) game based on the mechanic of casting a fire ball as a magic spell. In the artefact the user wears a head mounted display capable of AR to cast fire balls using hand gestures. The fire balls travel in the direction the user is facing and explode upon colliding with a real-world surface. The fire then permeates for a few seconds before fizzling out. 
 
 ### UML Diagram
-<img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/AR_UML.png?raw=true" alt="UML">
+<img src="https://raw.githubusercontent.com/1ByteMemory/ArtefactTechReport.github.io/master/AR_UML.png" alt="UML">
 
 ### Video
 [Link to video of prototype](https://youtu.be/599TbLwomlE)
@@ -14,7 +14,7 @@ For my practice-based research I was going to have one-one-one interviews after 
 
 The majority of responses do play video games and have at least had some experience in using augmented reality, mostly with using apps such as Pokémon Go, Snapchat filters and some with the PS VITA and Nintendo 3DS, although very few of them have had any experience with using the HoloLens.
 
-<img src="https://github.com/1ByteMemory/ArtefactTechReport.github.io/blob/master/Table01.png?raw=true" alt="AR_Experiences">
+<img src="https://raw.githubusercontent.com/1ByteMemory/ArtefactTechReport.github.io/master/Table01.PNG" alt="AR_Experiences">
 
 
 

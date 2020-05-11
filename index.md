@@ -20,6 +20,9 @@ The majority of responses do play video games and have at least had some experie
 
 Most participants found the interface to not be very exciting while the majority find the interface to be a novel use of the HoloLens and they believe that the demo clearly shows how the HoloLens is used to project fire balls into an environment. So, my conclusion from this is that the interface itself needs to be more engaging. However, these results could be tainted from the participants watching a demonstrational video of the prototype, and not experiencing the interface for themselves, so care must be taken to ensure that the interface doesn't become overwhelming. 
 
+<img src="https://raw.githubusercontent.com/1ByteMemory/ArtefactTechReport.github.io/master/Table02.PNG" alt="AgreeDisagreeGraph">
+
+
 When writing about a negative point about the prototype, one anonymous response was “[…] feels less exciting to use one finger to trigger the action, is it possible to use the whole hand?”. The HoloLens (1st Gen) only allows for the finger gesture, although the HoloLens 2 allows for many more hand gestures that could be used. So, to improve this project I would use the HoloLens 2 to grant the use of such capabilities. 
 
 43.8% of responses said that they didn’t find the fire ball interface to be exciting. It is possible that people thought this because they only saw a video of what the interface would look like and weren’t able to test it for themselves. To properly inform the next generation of the product I will need to have the users physically test the interface using an AB test. Test A will be what is seen in the video, and Test B will have added effects to make the fire ball more exciting. This AB test will help determine if there was a physical experience barrier, or if the interface does indeed need to be more engaging with the user.
